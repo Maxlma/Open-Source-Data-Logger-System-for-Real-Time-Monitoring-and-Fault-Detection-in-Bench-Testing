@@ -35,5 +35,28 @@ Tests confirmed:
 - Stable operation under AC loss scenarios  
 - Precise voltage regulation and thermal control
 
-## 📂 Repository Structure
+## 📜 License
+
+This project is licensed under the **Creative Commons BY 4.0**  
+© 2022 by the authors. Reuse permitted with attribution.  
+[License Details](https://creativecommons.org/licenses/by/4.0/)
+
+## 👨‍🔬 Authors
+
+- Márcio L. M. Amorim  
+- Gabriel A. Ginja  
+- João P. Carmo  
+- Melkzedekue M. A. Moreira  
+- Adriano A. G. Siqueira  
+- José A. Afonso
+
+## 📚 Citation
+
+If you use this work, please cite:
+
+> Amorim, M.L.M.; Ginja, G.A.; Carmo, J.P.; Moreira, M.M.A.; Siqueira, A.A.G.; Afonso, J.A.  
+> *Low-Cost/High-Precision Smart Power Supply for Data Loggers.*  
+> Energies 2023, 16, 278. DOI: [10.3390/en16010278](https://doi.org/10.3390/en16010278)
+
+---
 
