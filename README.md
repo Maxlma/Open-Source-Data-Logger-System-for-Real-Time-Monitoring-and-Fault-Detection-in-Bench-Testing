@@ -22,10 +22,6 @@ Developed by researchers from the **University of São Paulo (USP)** and the **U
 - 🧩 Fully documented open hardware – easily 3D printable case
 - 💸 **Total cost under $150**
 
-## 🛠️ Bill of Materials
-
-A detailed list of all components used (MCU, DC-DC converters, sensors, display, etc.) is available in the `/hardware` folder. The mechanical parts were designed in CAD and are included in the `/cad` folder as `.STL` files for 3D printing.
-
 ## 🧪 Experimental Results
 
 Tests confirmed:
